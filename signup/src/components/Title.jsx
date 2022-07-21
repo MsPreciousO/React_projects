@@ -1,9 +1,16 @@
 import React from 'react'
 
+// const Title = ({value}) => {
+//   return (
+//     <div>
+        
+//     </div>
+
 const Title = ({value}) => {
   return (
-    <div>
-        
+    <div> 
+        {/* <h6 style= {{fontSize: 40, margin: 0}}> {value}</h6> */}
+        <p style= {{fontSize: 40, margin: 0}}> {value}</p>
     </div>
   )
 }
