@@ -13,7 +13,7 @@ function App() {
 }
   return (
     <div style = {styles} className="App">
-      Log In
+      {/* Log In */}
       <LoginScreen />
 
     </div>
